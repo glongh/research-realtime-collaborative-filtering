@@ -3,7 +3,7 @@
 Research only - Do not use in production
 ```
 
-This is an attemp to implement Real Time collaborative filtering based on the following research paper:
+This is an attempt to implement Real Time collaborative filtering based on the following research paper:
 https://www.sciencedirect.com/science/article/pii/S0166361513002352
 
 
@@ -17,3 +17,9 @@ __Highlights__
 
 • Shows a real industry application of the architecture.
 
+
+![](images/arch_1.png)
+
+<sup>[1](#cfProcess)</sup> Multi-Layer collaborative filtering process 
+<hr />
+<a name="cf-process">1</a>: https://www.sciencedirect.com/science/article/pii/S0166361513002352
