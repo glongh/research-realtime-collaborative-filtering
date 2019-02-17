@@ -21,5 +21,13 @@ __Highlights__
 ![](images/arch_1.png)
 
 <sup>[1](#cfProcess)</sup> Multi-Layer collaborative filtering process 
+
+<sup>[2](#cfMovielensDataset)</sup> Movie lens dataset files in __data__ directory
+
 <hr />
 <a name="cf-process">1</a>: https://www.sciencedirect.com/science/article/pii/S0166361513002352
+
+<a name="cf-movielens-dataset">2</a>: F. Maxwell Harper and Joseph A. Konstan. 2015. The MovieLens Datasets:
+History and Context. ACM Transactions on Interactive Intelligent
+Systems (TiiS) 5, 4, Article 19 (December 2015), 19 pages.
+DOI=http://dx.doi.org/10.1145/2827872
